@@ -25,9 +25,9 @@ Example: `async-final-project-teal-Anas`
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: [Brief description of the task]
+- [ ] Question 3: Calculate affordability by ocean proximity
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+  - Visualization: ![Q3 Visualization](plotted images/Affordable Housing Counts by Ocean Proximity.png)
 
 - [ ] Question 4: [Brief description of the task]
   - Answer: [Placeholder for answer]
@@ -56,3 +56,4 @@ Example: `async-final-project-teal-Anas`
 - [ ] Question 10: [Brief description of the task]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+
